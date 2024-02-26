@@ -1,4 +1,4 @@
-Assignment 6 Due March 6, 2022 at 12am midnight (by end of Friday)
+Assignment 6 Due Mar 01, 2024 at 12am midnight (by end of Friday)
 
 Please provide the exact command line arguments you used to generate your results.
 {How to run find_hic_freqs.py}
