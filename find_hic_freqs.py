@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 '''
 TODO: write a doc string
+<Your description of this script>
+Usage: python3 find_hic_freq.py <Your options>
 '''
 
 # Loading recommended packages
@@ -31,9 +33,9 @@ import matplotlib.pyplot as plt
 # Identify the value from the input matrix that is the n'th percentile (n here is one of your inputs to the function)
 # Plot a heatmap of the matrix (use a colormap in this plot. one way to fine control the colormap is the use the LinearSegmentedColormap.from_list() method to generate the colormap used in the plot). 
 # The minimum value should be 0 and the maximum should be set to the value of the nth percentile you generated.
-# add lines to the heatmap where the TAD boundaries are if the TADs are present in the heatmap
+# add rectangles to the heatmap where the TAD boundaries are if the TADs are present in the heatmap. If the length of the bondaries is larger than given bins, skip this process.
 # add a title
-
+# show the labels of x and y axis(i.e., the bin region)
 
 ## Part 2
 
